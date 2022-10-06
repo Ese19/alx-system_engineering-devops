@@ -9,3 +9,4 @@ The 7-movethatfile script move a file to another directory
 The 8-firstdelete script deletes a file named betty
 The 9-firstdirdeletion script deletes a directory
 The 10-back script changes the working directory to the previous one
+The 11-lists script list all files in the current directory, parent directory, boot directory
